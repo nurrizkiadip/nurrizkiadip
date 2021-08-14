@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently student at IT Telkom Purwokerto, majoring in Informatic Engineering
+- 🌱 My expert talent is programming, especially in software development. I am currently learning about Android (Kotlin), Laravel Framework (PHP), Java
+
+Android & Website Enthusiast
 <!--
 **nurrizkiadip/nurrizkiadip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

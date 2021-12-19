@@ -7,7 +7,7 @@
 
 ### 💬 Get in Touch With Me!
 <a href="https://www.instagram.com/nurrizkiadip_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.twitter.com/_derysudrajat" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/NAdiprasetyo" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/nur-rizki-adi-prasetyo-2a2ba0157/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/@nrap.rizki10" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
 
